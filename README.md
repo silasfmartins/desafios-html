@@ -1,25 +1,21 @@
 <h1 align="center">
-  <img alt="Desafios HTML" height="80" title="Plant Manager" src="./favicon.ico" />
+  <img alt="Desafios HTML" height="80" title="Plant Manager" src="./image.png" />
 </h1>
 
 <p align="center">
-  <img alt="License" src="https://img.shields.io/github/license/silasfmartins/theme-switcher">
+  <img alt="License" src="https://img.shields.io/github/license/silasfmartins/desafios-html">
 </p>
 
 ## 💻 Projeto
-App que muda a cor de fundo do site conforme o usuário quer (modo light e dark)
+Repositório tem alguns Desafios básicos HTML
 
 ## 🔃 Requisitos para utilizar
 
-É necessário ter um navegador e internet acessar a aplicação.
+É necessário ter um navegador e internet acessar o repositório.
 
 ## ✨ Tecnologias
 
 -   [ x ] HTML 5
-
-## :hammer_and_wrench: Features 
-
--   [ ] É possível mudar o tema de light para dark
 
 ## 🆚 Versionamento / Versioning
 
@@ -27,15 +23,15 @@ Esse projeto não possui um sistema de versionamento.
 
 ## 🆙 Projeto no ar
 
-É possível acessar a aplicação através da URL: https://silasfmartins.github.io/theme-switcher/ .
+É possível acessar a aplicação através da URL: https://silasfmartins.github.io/desafios-html/ .
 
 ## 👨‍💻 Contribuir / Contributing
 
-Deseja contribuir com o projeto? [Passo a passo para contribuir](https://github.com/silasfmartins/theme-switcher/blob/master/Contributing.md)
+Deseja contribuir com o projeto? [Passo a passo para contribuir](https://github.com/silasfmartins/desafios-html/blob/master/Contributing.md)
 
 ## 💿 Histórico / History
 
-Consulte [Releases](https://github.com/silasfmartins/theme-switcher/releases) para ter um changelog completo.
+Consulte [Releases](https://github.com/silasfmartins/desafios-html/releases) para ter um changelog completo.
 
 ## 📄 Licença do Projeto/License
 

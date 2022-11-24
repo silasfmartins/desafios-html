@@ -21,10 +21,6 @@ Repositório tem alguns Desafios básicos HTML
 
 Esse projeto não possui um sistema de versionamento.
 
-## 🆙 Projeto no ar
-
-É possível acessar a aplicação através da URL: https://silasfmartins.github.io/desafios-html/ .
-
 ## 👨‍💻 Contribuir / Contributing
 
 Deseja contribuir com o projeto? [Passo a passo para contribuir](https://github.com/silasfmartins/desafios-html/blob/master/Contributing.md)

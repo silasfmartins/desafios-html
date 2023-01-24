@@ -31,6 +31,6 @@ Consulte [Releases](https://github.com/silasfmartins/desafios-html/releases) par
 
 ## 📄 Licença do Projeto/License
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/silasfmartins/theme-switcher/blob/main/LICENSE) © Silas Martins para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/silasfmartins/desafios-html/blob/main/LICENSE) © Silas Martins para mais detalhes.
 
 <br />
